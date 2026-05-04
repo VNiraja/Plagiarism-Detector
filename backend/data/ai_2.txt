@@ -1,0 +1,1 @@
+Machine learning is a subset of AI that focuses on building systems that learn from data to improve performance.

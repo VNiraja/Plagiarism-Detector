@@ -1,0 +1,1 @@
+Neural networks are inspired by the biological brain and are used in deep learning applications today.
